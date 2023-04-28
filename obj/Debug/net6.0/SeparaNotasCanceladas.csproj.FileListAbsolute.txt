@@ -1,0 +1,15 @@
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\bin\Debug\net6.0\SeparaNotasCanceladas.exe
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\bin\Debug\net6.0\SeparaNotasCanceladas.deps.json
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\bin\Debug\net6.0\SeparaNotasCanceladas.runtimeconfig.json
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\bin\Debug\net6.0\SeparaNotasCanceladas.dll
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\bin\Debug\net6.0\SeparaNotasCanceladas.pdb
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.csproj.AssemblyReference.cache
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.AssemblyInfoInputs.cache
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.AssemblyInfo.cs
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.csproj.CoreCompileInputs.cache
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.dll
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\refint\SeparaNotasCanceladas.dll
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.pdb
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\SeparaNotasCanceladas.genruntimeconfig.cache
+C:\Users\Elisson\Documents\dev\DevProject\SeparaNotasCanceladas\obj\Debug\net6.0\ref\SeparaNotasCanceladas.dll
